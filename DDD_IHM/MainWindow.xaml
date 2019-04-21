@@ -1,0 +1,35 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DDD_IHM"
+        xmlns:ms="http://namespaces.mindscape.co.nz/wpf" x:Class="DDD_IHM.MainWindow"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="582.4" Width="800" Loaded="Window_Loaded">
+    <Grid>
+        <GroupBox x:Name="Creer_un_entretient" Header="Creer un entretient" HorizontalAlignment="Left" Height="534" Margin="10,10,0,0" VerticalAlignment="Top" Width="263">
+            <Grid HorizontalAlignment="Left" Height="504" Margin="10,10,-3.4,-2" VerticalAlignment="Top" Width="243">
+                <Label Content="Salle" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="combobox_salle" HorizontalAlignment="Left" Margin="85,13,0,0" VerticalAlignment="Top" Width="120"/>
+                <Label Content="Participants" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="bouton_ajouter_participants" Content="+" HorizontalAlignment="Left" Margin="210,45,0,0" VerticalAlignment="Top" Width="23" Height="22" Click="Bouton_ajouter_participants_Click"/>
+                <Label Content="Candidat" HorizontalAlignment="Left" Margin="10,73,0,0" VerticalAlignment="Top"/>
+                <Label Content="Date" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top"/>
+                <Calendar x:Name="date_picker" HorizontalAlignment="Left" Margin="54,109,0,0" VerticalAlignment="Top"/>
+                <Label Content="Heure de debut" HorizontalAlignment="Left" Margin="10,283,0,0" VerticalAlignment="Top"/>
+                <ms:TimePicker x:Name="datepicker_debut" HorizontalAlignment="Left" Margin="108,286,0,0" VerticalAlignment="Top" Width="76"/>
+                <Label Content="Heure de fin" HorizontalAlignment="Left" Margin="10,308,0,0" VerticalAlignment="Top"/>
+                <ms:TimePicker x:Name="date_picker_fin" HorizontalAlignment="Left" Margin="108,311,0,0" VerticalAlignment="Top" Width="76"/>
+                <Label Content="Participants" HorizontalAlignment="Left" Margin="-5,334,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="bouton_ajouter_entretient" Content="Ajouter" HorizontalAlignment="Left" Margin="163,476,0,-35" VerticalAlignment="Top" Width="75" Click="Bouton_ajouter_entretient_Click"/>
+                <ComboBox x:Name="combobox_participants" HorizontalAlignment="Left" Margin="85,44,0,0" VerticalAlignment="Top" Width="120"/>
+                <ComboBox x:Name="combobox_candidat" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Margin="85,73,0,0"/>
+                <ListBox x:Name="liste_box_particiapants" HorizontalAlignment="Left" Height="85" Margin="10,365,0,0" VerticalAlignment="Top" Width="223"/>
+                <Label x:Name="label_error" Content="" HorizontalAlignment="Left" Height="40" Margin="7,455,0,0" VerticalAlignment="Top" Width="151" Foreground="Red"/>
+            </Grid>
+        </GroupBox>
+        <ListBox x:Name="liste_box_entretients" HorizontalAlignment="Left" Height="533" Margin="278,10,0,0" VerticalAlignment="Top" Width="506"/>
+
+    </Grid>
+</Window>

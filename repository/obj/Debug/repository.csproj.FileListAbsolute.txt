@@ -1,0 +1,26 @@
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\bin\Debug\repository.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\bin\Debug\repository.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\bin\Debug\DTO.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\bin\Debug\System.Data.SQLite.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\bin\Debug\DTO.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.csprojAssemblyReference.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.Properties.Resources.resources
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.csproj.GenerateResource.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.csproj.CoreCompileInputs.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.csproj.CopyComplete
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\obj\Debug\repository.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\repository\bin\Debug\backup.sql
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\bin\Debug\backup.sql
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\bin\Debug\repository.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\bin\Debug\repository.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\bin\Debug\DTO.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\bin\Debug\System.Data.SQLite.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\bin\Debug\DTO.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.csprojAssemblyReference.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.Properties.Resources.resources
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.csproj.GenerateResource.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.csproj.CoreCompileInputs.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.csproj.CopyComplete
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\repository\obj\Debug\repository.pdb

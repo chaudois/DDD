@@ -1,0 +1,13 @@
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\backup.sql
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\agregat.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\agregat.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\DTO.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\repository.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\System.Data.SQLite.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\DTO.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\bin\Debug\repository.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\obj\Debug\BusinessLayout.csprojAssemblyReference.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\obj\Debug\BusinessLayout.csproj.CoreCompileInputs.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\obj\Debug\BusinessLayout.csproj.CopyComplete
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\obj\Debug\agregat.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\agregat\obj\Debug\agregat.pdb

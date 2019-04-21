@@ -1,0 +1,12 @@
+C:\Users\d.chaudois\source\repos\DDD_IHM\DTO\bin\Debug\DTO.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\DTO\bin\Debug\DTO.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\DTO\obj\Debug\DTO.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\DTO\obj\Debug\DTO.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DTO\bin\Debug\DTO.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DTO\bin\Debug\DTO.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DTO\obj\Debug\DTO.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DTO\obj\Debug\DTO.pdb

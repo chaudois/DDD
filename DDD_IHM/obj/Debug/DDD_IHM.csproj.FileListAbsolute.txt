@@ -1,0 +1,52 @@
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csprojAssemblyReference.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\MainWindow.g.cs
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\App.g.cs
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM_MarkupCompile.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM_MarkupCompile.lref
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\DDD_IHM.exe.config
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\DDD_IHM.exe
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\DDD_IHM.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\Mindscape.WpfElements.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\Mindscape.WpfElements.xml
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\MainWindow.baml
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.g.resources
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.Properties.Resources.resources
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csproj.GenerateResource.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.exe.licenses
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csproj.CoreCompileInputs.cache
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csproj.CopyComplete
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.exe
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\DTO.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\repository.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\System.Data.SQLite.dll
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\DTO.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\repository.pdb
+C:\Users\d.chaudois\source\repos\DDD_IHM\DDD_IHM\bin\Debug\backup.sql
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\DDD_IHM.exe.config
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\DDD_IHM.exe
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\DDD_IHM.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\DTO.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\Mindscape.WpfElements.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\repository.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\System.Data.SQLite.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\DTO.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\repository.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\Mindscape.WpfElements.xml
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csprojAssemblyReference.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\MainWindow.g.cs
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\App.g.cs
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM_MarkupCompile.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM_MarkupCompile.lref
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\MainWindow.baml
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.g.resources
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.Properties.Resources.resources
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csproj.GenerateResource.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.exe.licenses
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csproj.CoreCompileInputs.cache
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.csproj.CopyComplete
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.exe
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\obj\Debug\DDD_IHM.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\agregat.dll
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\agregat.pdb
+D:\User\d.chaudois\Cours ESGI\Cours DDD\DDD_IHM\DDD_IHM\bin\Debug\backup.sql
